@@ -1,6 +1,4 @@
-## Hello there
-
-I do stuff.
+## Hello there, I do stuff
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Calbabreaker&show_icons=true&theme=dracula)
 
