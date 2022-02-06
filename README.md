@@ -1,6 +1,6 @@
 ## Hello there
 
-#### I like to program on a variety of languages. 😀
+#### I like to program hmm yes.
 
 > XMR: 43faNmi9HJCMPoDoRbixgPUsNWjMm9CKdUFKpiMQLq7V1WY65VNBpzHT8ANky1bv3pBY9NnfA6rvW1E23xxmeMzdLk2m4UE
 
